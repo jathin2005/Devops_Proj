@@ -1,0 +1,1 @@
+echo Building... & timeout /t 1
